@@ -1,0 +1,2 @@
+# TibMed
+Tibetan Medicine
